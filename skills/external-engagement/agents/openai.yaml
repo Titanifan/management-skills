@@ -1,0 +1,8 @@
+interface:
+  display_name: "External Engagement"
+  short_description: "Build durable external relationships and pathways"
+  icon_small: "./assets/icon.svg"
+  icon_large: "./assets/icon.svg"
+  default_prompt: "Use $external-engagement to turn this external contact into a credible next step with clear ownership, reciprocity, and boundaries."
+policy:
+  allow_implicit_invocation: true

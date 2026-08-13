@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="External engagement network icon">
+  <rect width="64" height="64" rx="14" fill="#334155"/>
+  <circle cx="16" cy="32" r="7" fill="#ffffff"/>
+  <circle cx="48" cy="18" r="7" fill="#ffffff"/>
+  <circle cx="48" cy="46" r="7" fill="#ffffff"/>
+  <path d="M22 29L41 21M22 35L41 43M48 25V39" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/>
+</svg>

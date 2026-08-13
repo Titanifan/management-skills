@@ -1,0 +1,8 @@
+interface:
+  display_name: "Strategic Opportunity"
+  short_description: "Select opportunities and test strategic venture potential."
+  icon_small: "./assets/icon.svg"
+  icon_large: "./assets/icon.svg"
+  default_prompt: "Use $strategic-opportunity to assess whether this opportunity deserves a place in my strategic portfolio."
+policy:
+  allow_implicit_invocation: true

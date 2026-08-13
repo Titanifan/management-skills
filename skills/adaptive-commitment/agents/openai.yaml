@@ -1,0 +1,8 @@
+interface:
+  display_name: "Adaptive Commitment"
+  short_description: "Turn decisions into staged commitment and reallocation"
+  icon_small: "./assets/icon.svg"
+  icon_large: "./assets/icon.svg"
+  default_prompt: "Use $adaptive-commitment to decide how much to commit now, what evidence to seek, and when to scale, redesign, or stop."
+policy:
+  allow_implicit_invocation: true
