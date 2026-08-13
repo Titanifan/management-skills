@@ -104,4 +104,94 @@ An industry association wants me to write the technical core of its regulatory s
 **Facts available at decision time**
 
 - The consultation is strongly aligned with the user's expertise and public-interest agenda.
-- The association has a clear policy position that may not match the user's independent analysis-÷ß-¢G§²ÚîÆ­yÖFS¢¢¢'Vâ&÷VæFVB÷F–öâ÷"–Æ÷Bà£2â¢¤'V–ÆC¢¢¢7&VFRF†R6&–Æ—G’æBv÷fW&ææ6R&WV—&VBf÷"&WVF&–Æ—G’à£Bâ¢¥66ÆS¢¢¢W‡æBöæÇ’gFW"Wf–FVæ6RæB÷W&F–öæÂ&VF–æW72&R7Vff–6–VçBà£Râ¢¥&VÆÆö6FS¢¢¢&VFW6–vâÂFVÆVvFRÂ&²Â¶–ÆÂÂ÷"Ö÷fR&W6÷W&6W2VÇ6Wv†W&Rà ¤Fòæ÷B6öægW6R7V66W76gVÂ–Æ÷Bv—F‚&VF–æW72Fò66ÆRà ¢22FVfVÇBv÷&¶fÆ÷p ¥VæÆW72F†RW6W"6·2f÷"Æ–v‡FW"73  £âFVf–æRF†R÷÷'GVæ—G’ÂFV6—6–öâÂæB7W'&VçB7FvRà£"â6†V6²Æ–W"æBÆ–W"6öç7G&–çG2à£2â6Æ&–g’7G&FVv–2–FVçF—G’æB&Væf—Bà£Bâ–FVçF–g’F†R&–æ6—ÂVæ6W'F–çG’æB&–æ6—Â6öç7G&–çBà£RâWfÇVFRF†R÷÷'GVæ—G’F‡&÷Vv‚F†R§VFvVÖVçBVæv–æRà£bâÇ’†&B¶–ÆÂ7&—FW&–à£râ6VÆV7B&–Ö'’FV6—6–öâÖöFRæB7FvRà£‚âFWFW&Ö–æRv†WF†W"Wf–FVæ6R—27Vff–6–VçBFò7F÷6ö×&–ærà£’â7V6–g’F†RW6W"w2&öÆRæB&÷VæFVB&W7öç6–&–Æ—G’à£âFW6–vâF†R6öÖÖ—FÖVçB&6†—FV7GW&Rà£âFVf–æRÖ–ÆW7FöæRÂWf–FVæ6R7FæF&BÂW'6—7FVæ6RW&–öBÂæB&Wf–Wr6öæF—F–öâà£"â7FFRv†BWf–FVæ6Rv÷VÆB66ÆRÂ&VFW6–vâÂFVÆVvFRÂ&²Â¶–ÆÂÂ÷"6öÖÖW&6–Æ—6RF†R÷÷'GVæ—G’à£2â–FVçF–g’&VÆ—7F–2f÷&VvöæRÇFW&æF—fW2æB7W7VæB&V6öç6–FW&F–öâVçF–ÂF†R&Wf–WrG&–vvW"à£Bâ&V6÷&Bv†B'VÆR6†÷VÆB&RFW7FVB–âF†RÆV&æ–ærÆö÷à ¢22FVfVÇB÷WGW@ ¤Ö÷7BgVÆÂ&W7öç6W26†÷VÆB–æ6ÇVFS  ¢ÒfW&F–7BæB6öæf–FVæ6S°¢Ò&–Ö'’FV6—6–öâÖöFRæB7W'&VçB7FvS°¢ÒÖ–â&V6öâFò&ö6VVC°¢ÒÖ–â&V6öâFòF÷væw&FR÷"¶–ÆÃ°¢ÒG&–vvW&VB†&B¶–ÆÂ7&—FW&–°¢ÒW6W"w2&V6öÖÖVæFVB&öÆS°¢Ò&–æ6—ÂVæ6W'F–çG’æB6öç7G&–çC°¢Ò&W6÷W&6RfÆö÷"æB6°¢Òf—'7B7F–öâæB&÷FV7FVBGFVçF–öã°¢ÒÖ–ÆW7FöæRæBWf–FVæ6R7FæF&C°¢ÒW'6—7FVæ6RW&–öBæB&Wf–Wr6öæF—F–öã°¢Ò66ÆRÂ&VFW6–vâÂFVÆVvFRÂ&²Â¶–ÆÂÂ÷"&VÆÆö6F–öâG&–vvW'3°¢ÒW‡V7FVB&W6–GVÂ76WG3°¢Ò&VÆ—7F–26÷VçFW&f7GVÂ6†V6²à ¥W6RF—&V7B&÷6RâW6RF&ÆW2öæÇ’v†VâF†W’–×&÷fR6ö×&—6öâÂ÷'FföÆ–òG&–vRÂ÷"v÷fW&ææ6R6Æ&—G’à ¢22†&B¶–ÆÂ7&—FW&– ¥7FFR†&B¶–ÆÇ2æV"F†R&Vv–ææ–ærâ6öÖÖöâ†&B¶–ÆÇ2–æ6ÇVFS  ¢Òæò7&VF–&ÆRWf–FVæ6R÷"FFF‡v“°¢ÒæòFVfVç6–&ÆRF†V÷&WF–6Â÷"fÇVR×&VÆ—6F–öâÖV6†æ—6Ó°¢Ò6öÖÖöF—G’F÷–2÷"vVæW&–26öÖÖW&6–ÂöffW#°¢ÒvV²÷"W&—†W&ÂW6W"&öÆS°¢Ò–FVçF—G’F–ÇWF–öã°¢Ò†–v‚v÷fW&ææ6R'W&FVâv—F‚æòÆFf÷&Ò÷"ÆV&æ–ær76WC°¢ÒW'6—7FVçB&W67VRFWVæFVæ7“°¢Ò†–v‚6övæ—F—fR6—FÂ6÷7Bv—F‚vV²7G&FVv–2&WGW&ã°¢Ò÷÷'GVæ—G’W†—7G2Ö–æÇ’&V6W6R—B—2f–Æ&ÆS°¢Ò66Æ–ær&Vf÷&RfÆ–FF–öã°¢Ò–æFVf–æ—FR÷F–öæ–ærv—F†÷WBÖ–ÆW7FöæR÷"&W6÷W&6R6°¢Òæò7W7FöÖW"–âÂv–ÆÆ–ævæW72Fò’Â÷"F—7G&–'WF–öâF‡v’f÷"6öÖÖW&6–Â–FV3°¢Òg&v–ÆR66W72ÂVæ6ÆV"÷væW'6†—ÂVæ&÷VæFVBö&Æ–vF–öâÂ÷"ÖFW&–ÂWF†–6Â6öæfÆ–7Bà ¢227GVFVçB7WW'f—6–öâ&–æ6—ÆP ¤Çv—2F—7F–æwV—6‚7WW'f—6–öâGWG’g&öÒ7G&FVv–2–çfW7FÖVçBâ&W7öç6–&ÆR7WW'f—6–öâ&WV—&W26Æ&—G’Âf—&æW72ÂF–ÖVÇ’fVVF&6²ÂFö7VÖVçFF–öâÂæBFWfVÆ÷ÖVçFÂ7W÷'Bâ—BFöW2æ÷B&WV—&R–æFVf–æ—FR&W67VRÆ&÷W"Âv†÷7Gw&—F–ærÂ÷"6öÖÖ—FÖVçBöb6÷&R–FVçF—G’6—FÂà ¤76W72F—&V7F–öâÂ&–v÷W"ÂWFöæö×’ÂÆV&æ–ærfVÆö6—G’ÂæB&W7öç6RFòfVVF&6²â†–v‚Vff÷'BÆöæR—2æ÷BWf–FVæ6Röbf–&ÆR&ö¦V7Bà ¢22FöÖ–â&÷VæF' ¤¶VWF†RFF—fR6öÖÖ—FÖVçB6÷&RFöÖ–âÖvVæW&ÂâFòæ÷B†&BÖ6öFRöæRæ÷&ÖF—fRÖ—76–öâÂ7W7FöÖW"6VvÖVçBÂFV6†æöÆöw’Â÷"&W6V&6‚F÷–22Væ—fW'6ÆÇ’7WW&–÷"à ¥W6RF†R–ææ÷fF–öâ&W6÷W&6RÆÆö6F–öâÖöGVÆRv†VâWfÇVF–ær’ÂVÖW&v–ærFV6†æöÆöw’Â6÷'÷&FR–ææ÷fF–öâ÷'FföÆ–÷2Â–ææ÷fF–öâöÆ–7’ÂFV6†æöÆöw’6öÖÖW&6–Æ—6F–öâÂd2ÂRÂ÷"FV6†æöÆöw’×Fò×fÇVRVW7F–öç2âG&VBç’&VfW'&VB7W7FöÖW"6VvÖVçB÷"Ö&¶WBVçG'’&÷WFR2&÷f—6–öæÂ‡—÷F†W6—2FòfÆ–FFRÂæ÷BW&ÖæVçB'VÆRà ¢22ÖöGVÆRÆöF–ærwV–FP ¤ÆöBöæÇ’F†R&VÆWfçBÖöGVÆW3  ¢ÒWf–FVæ6R&÷fVææ6RÂv÷&¶fÆ÷rG&ç6ÆF–öç2ÂWF†÷&–ÂFW6–vâ6†ö–6W2ÂæB6Æ–'&F–öâÆ–Ö—G3¢&VfW&Væ6W2÷&÷fVææ6RæÖF ¢ÒvVæW&ÂFV6—6–öâ'V'&–3¢&VfW&Væ6W2övVæW&ÂÖFV6—6–öâ×'V'&–2æÖF ¢ÒFV6—6–öâ6öçfW&vVæ6RæB6öÖÖ—FÖVçC¢&VfW&Væ6W2ö6öÖÖ—FÖVçBÖæBÖ6öçfW&vVæ6RæÖF ¢ÒW†V7WF–öâFö7G&–æS¢&VfW&Væ6W2öW†V7WF–öâÖFö7G&–æRæÖF ¢ÒÆV&æ–ærÖÆö÷6Æ–'&F–öã¢&VfW&Væ6W2öÆV&æ–ærÖÆö÷Ö6Æ–'&F–öâæÖF ¢Ò&ö¦V7BG&–vS¢&VfW&Væ6W2÷&ö¦V7B×G&–vRæÖF ¢Ò7GVFVçBG&–vS¢&VfW&Væ6W2÷7GVFVçB×G&–vRæÖF ¢Ò6öÖÖW&6–Â÷÷'GVæ—G’æB6FVÖ–2VçG&W&VæWW'6†—¢&VfW&Væ6W2ö6öÖÖW&6–ÂÖ6FVÖ–2ÖVçG&W&VæWW'6†—æÖF ¢Ò–ææ÷fF–öâæBFV6†æöÆöw’&W6÷W&6RÆÆö6F–öã¢&VfW&Væ6W2ö–ææ÷fF–öâ×&W6÷W&6RÖÆÆö6F–öâæÖF  ¢227G–ÆR'VÆW0 ¤&R6öæ6—6RÂF—&V7BÂæBF–væ÷7F–2â–FVçF–g’vV²Æöv–2Â†–FFVâ÷÷'GVæ—G’6÷7BÂv÷fW&ææ6R'W&FVâÂ6övæ—F—fR6—FÂ6÷7BÂ7FvRÖ—6ÖF6‚ÂæB–FVçF—G’F–ÇWF–öââfö–BvVæW&–2Væ6÷W&vVÖVçBÂ&WG&÷7V7F—fR6W'F–çG’ÂæBfÇ6R&V6—6–öââG&VBF†RFF—fR6öÖÖ—FÖVçB2ÆV&æ–ær7—7FVÒ&F†W"F†âf–æ—6†VBFö7G&–æRà
+- The association has a clear policy position that may not match the user's independent analysis.
+- No payment, attribution, publication right, or disclosure arrangement is offered.
+- The regulator accepts independent expert submissions.
+- The association can provide member data and introductions if governance is agreed.
+
+**Expected capabilities**
+
+- Distinguish honest brokerage, independent contribution, and private advocacy.
+- Surface attribution, conflict, lobbying, data, and free-delivery boundaries.
+- Identify redesign options and reciprocal commitments without treating payment as the only valid outcome.
+- Preserve a possible public-policy relationship while refusing invisible or captured labour.
+
+**Failure signals**
+
+- Drafting the submission before resolving role and independence.
+- Treating access promises as equivalent to reciprocal commitment.
+- Assuming all unpaid policy work is service-only or all association work is illegitimate.
+- Claiming policy impact before evidence of regulator use or follow-up.
+
+## Adaptive Commitment
+
+### AC-01: Two paid pilots, uncertain scale
+
+**Prompt**
+
+Two organisations have paid for pilots of my management diagnostic. How much should I commit now, and what would justify scaling it?
+
+**Facts available at decision time**
+
+- Both pilots produced useful feedback and one repeat request.
+- Delivery still depends on the user's personal interviews and analysis.
+- No standard onboarding, trained associate, or validated outcome measure exists.
+- The user can protect one day per week for three months but is recovering from a demanding semester.
+- A developer estimates six months for a software product, although the main adoption bottleneck may be workflow integration rather than technology.
+
+**Expected capabilities**
+
+- Accept the positive direction provisionally and focus on current commitment rather than re-running portfolio selection.
+- Select a mode and stage, then state resource floor, cap, protected attention, owner, first action, and principal constraint.
+- Define evidence, milestone, persistence period, review condition, and scale/redesign/park triggers.
+- Treat capacity as a scope constraint without diagnosis.
+- Separate pilot success from scale readiness and identify residual assets.
+
+**Failure signals**
+
+- Recommending full software build because two pilots paid.
+- Leaving the project as an indefinite option without expiry or cap.
+- Treating one repeat request as proof of a scalable business.
+- Ignoring personal-delivery dependence and recovery capacity.
+
+### AC-02: PhD rescue pressure
+
+**Prompt**
+
+My PhD student is behind, repeatedly submits weak drafts, and has an important milestone in ten weeks. How should I commit without abandoning my supervision duty or taking over the project?
+
+**Facts available at decision time**
+
+- The student attends meetings and works hard but implements feedback inconsistently.
+- Prior written action plans were not completed.
+- The research question remains viable, but the empirical design needs narrowing.
+- The user has already rewritten several sections and feels responsible for the deadline.
+- University milestone and support procedures are available.
+
+**Expected capabilities**
+
+- Separate supervision duty from strategic overinvestment and ghostwriting.
+- Choose a bounded service-track or other justified mode with clear roles.
+- Define the student's deliverable, evidence of progress, support floor, supervisor cap, review condition, and escalation pathway.
+- Distinguish decision quality, execution fidelity, learning, and milestone outcome.
+- Protect fairness, documentation, and developmental support.
+
+**Failure signals**
+
+- Advising the supervisor to rewrite the thesis to secure the milestone.
+- Treating student effort as evidence of project progress.
+- Killing a viable project without a bounded narrowing and support test.
+- Giving generic encouragement without responsibility, evidence, and review rules.
+
+## Evaluation rubric
+
+For each case, rate the response on a 0â€“2 scale for:
+
+1. correct decision boundary;
+2. evidence versus inference discipline;
+3. construct and mechanism use;
+4. boundary conditions and failure modes;
+5. non-mechanical treatment of scores or categories;
+6. actionable handoff to the adjacent Skill.
+
+Record disagreements and failure cases. Do not convert a high rubric total into `Case-calibrated` status without repeated independent runs and documented real-world cases.
