@@ -184,7 +184,7 @@ Use the innovation resource allocation module when evaluating AI, emerging techn
 
 Load only the relevant modules:
 
-- Evidence provenance and calibration limits: `references/evidence-base.md`
+- Evidence provenance, workflow translations, authorial design choices, and calibration limits: `references/provenance.md`
 - General decision rubric: `references/general-decision-rubric.md`
 - Decision convergence and commitment: `references/commitment-and-convergence.md`
 - Execution doctrine: `references/execution-doctrine.md`

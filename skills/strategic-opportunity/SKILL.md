@@ -20,7 +20,7 @@ Do not use this skill as a winner-prediction engine or an execution planner. Sep
 
 A sound selection can produce a poor outcome, and a weak selection can be rescued by luck.
 
-For management-practice, consulting, product, platform, commercialisation, investment, or venture opportunities, perform a second-layer assessment using `references/zero-to-one-management-practice.md`. For a full book-wide stress test, also load `references/zero-to-one-question-bank.md`.
+For management-practice, consulting, product, platform, commercialisation, investment, or venture opportunities, perform a second-layer assessment using `references/zero-to-one-management-practice.md`. When the venture thesis needs adversarial testing, also load the source-bounded test in `references/zero-to-one-question-bank.md`.
 
 Stop at selection. Transfer positive or provisional opportunities to Adaptive Commitment using `references/adaptive-commitment-handoff.md`.
 
@@ -93,7 +93,7 @@ Follow this sequence unless the user requests a quick pass.
 9. Determine whether the opportunity is practice-oriented or venture-oriented.
    - If no, issue the strategic verdict.
    - If yes, run the two-stage Zero-to-One Practice and Venture assessment in `references/zero-to-one-management-practice.md`.
-10. For a full Zero-to-One review, load `references/zero-to-one-question-bank.md` and use the complete chapter-derived stress test.
+10. For a deeper Zero-to-One review, load `references/zero-to-one-question-bank.md` and use only the tests that could materially change the verdict.
 11. Assign one portfolio disposition: core candidate, selective candidate, service-only, monitor, redesign, or reject.
 12. State the principal uncertainty, binding strategic weakness, and evidence needed to change the verdict.
 13. For any positive or provisional disposition, prepare an Adaptive Commitment handoff. Do not set resources, stages, milestones, or review rules here.
@@ -184,7 +184,7 @@ For a management-practice or venture opportunity, add:
 - original Seven Questions dashboard;
 - hard-gate results and score caps;
 - dual-track class: Build-to-Own Candidate, Impact Practice, Venture Hypothesis, or Redesign/Reject;
-- book-wide stress-test findings that materially change the judgement.
+- source-bounded venture stress-test findings that materially change the judgement.
 
 Do not include detailed resource floors, caps, protected time, first actions, milestones, persistence periods, review dates, or reallocation rules.
 
@@ -211,10 +211,10 @@ For portfolio review, group opportunities into:
 
 ## Reference loading guide
 
-- Use `references/evidence-base.md` when explaining, auditing, or revising the constructs, mechanisms, workflow translations, boundary conditions, or provenance of the Skill.
+- Use `references/provenance.md` when explaining, auditing, or revising the scholarly constructs, practitioner frameworks, workflow translations, authorial design choices, boundary conditions, or provenance of the Skill.
 - Use `references/scoring-rubric.md` for the 0-100 strategic evaluation.
 - Use `references/kill-criteria.md` for hard kills and redesign tests.
 - Use `references/memo-template.md` for a full strategic choice memo.
 - Use `references/zero-to-one-management-practice.md` for the two-stage Practice Impact and Zero-to-One assessment.
-- Use `references/zero-to-one-question-bank.md` for the complete book-wide question-driven stress test.
+- Use `references/zero-to-one-question-bank.md` for a lean, source-bounded adversarial test of the seven venture questions.
 - Use `references/adaptive-commitment-handoff.md` only to transfer a selected opportunity to Adaptive Commitment.

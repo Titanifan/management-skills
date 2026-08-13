@@ -35,7 +35,7 @@ The ZVP track preserves Peter Thiel and Blake Masters's original seven business 
 6. Durability
 7. Secret
 
-Use `zero-to-one-question-bank.md` for the complete chapter-by-chapter stress test. That question bank is an analytical paraphrase of the book's 14-chapter architecture and conclusion. It is not a verbatim reproduction. The PIP track and the dual-track classification are extensions designed for management-practice screening; do not attribute them to the book.
+Use `zero-to-one-question-bank.md` for a lean, source-bounded adversarial test of those seven categories. It is an analytical adaptation, not a reproduction or substitute for the book. The PIP track, weights, caps, thresholds, and dual-track classification are `Authorial-synthesis`; do not attribute them to the book. Read `provenance.md` when auditing these distinctions.
 
 ## 2. When to load this module
 
@@ -65,7 +65,7 @@ Use a 10-15 minute screen to determine whether the opportunity merits deeper wor
 Run two scores:
 
 - PIP: 0-100 across eight dimensions.
-- ZVP: 0-100 across the original seven questions, enriched by the full book question bank.
+- ZVP: 0-100 across the original seven questions, challenged by the lean venture stress test.
 
 Then classify the opportunity in a two-by-two matrix. Do not average PIP and ZVP.
 
@@ -230,7 +230,7 @@ Score the following eight dimensions.
 
 ## 7. Stage 2B: Zero-to-One Venture Potential
 
-The seven original questions form the scored dashboard. Use the extended book question bank to test each rating and expose self-deception.
+The seven original questions form the scored dashboard. Use the source-bounded stress test to challenge each rating and expose self-deception.
 
 | Original question | Weight | What to test |
 |---|---:|---|
@@ -418,7 +418,7 @@ When scores are between 60 and 69, describe the opportunity as emerging rather t
 6. Apply track-specific hard stops.
 7. If practice passes, score PIP.
 8. If venture passes or remains a serious hypothesis, score the original seven questions.
-9. Load `zero-to-one-question-bank.md` and stress-test all seven scores through the book's full chapter architecture.
+9. Load `zero-to-one-question-bank.md` and apply only the adversarial tests that could change a score, cap, or verdict.
 10. Apply caps and overrides.
 11. Place the opportunity in the dual-track matrix.
 12. Compare the result with the general Strategic Opportunity score and platform fit.
@@ -471,9 +471,9 @@ Report practice and venture gates separately, including hard stops.
 | Secret | 18 |  |  |  |
 | Total | 100 |  |  |  |
 
-### Book-wide stress test
+### Source-bounded venture stress test
 
-Summarise only the chapter-derived questions that materially change the judgement. Do not dump the full question bank unless requested.
+Summarise only the adversarial tests that materially change the judgement. Do not reproduce the source framework at unnecessary length.
 
 ### Caps and overrides
 

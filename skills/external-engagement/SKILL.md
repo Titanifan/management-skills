@@ -445,4 +445,4 @@ Transfer:
 - Load `references/industry-track.md` for companies, commercial organisations, research-capable firms, buyers, and industry-facing intermediaries.
 - Load `references/policy-public-track.md` for regulators, government, consultations, public agencies, policy networks, associations, and public-interest engagement.
 - Load `references/relationship-ledger.md` for network mapping, pipeline review, or documenting meetings and conversion progress.
-- Load `references/evidence-base.md` when explaining or testing the evidence behind the workflow, ownership logic, trust-building, intermediary use, resource readiness, policy engagement, or career attribution.
+- Load `references/provenance.md` when explaining or testing the scholarly foundations, workflow translations, authorial design choices, ownership logic, trust-building, intermediary use, resource readiness, policy engagement, or career attribution.
