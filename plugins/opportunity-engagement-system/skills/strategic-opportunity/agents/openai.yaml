@@ -1,0 +1,8 @@
+interface:
+  display_name: Strategic Opportunity
+  short_description: Select portfolio-worthy opportunities and stress-test practice or venture
+    architecture before field conversion or resource commitment.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  allow_implicit_invocation: true

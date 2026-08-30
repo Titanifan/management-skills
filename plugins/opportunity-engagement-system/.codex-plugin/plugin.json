@@ -1,0 +1,36 @@
+{
+  "name": "opportunity-engagement-system",
+  "version": "1.1.0",
+  "description": "Coordinate a nine-state opportunity lifecycle across strategic selection, field formation, partnership conversion, evidence verification, bounded commitment, review, monitoring, and exit.",
+  "author": {
+    "name": "Titanifan",
+    "url": "https://github.com/Titanifan"
+  },
+  "repository": "https://github.com/Titanifan/management-skills",
+  "keywords": [
+    "strategy",
+    "opportunity",
+    "engagement",
+    "verification",
+    "commitment",
+    "research",
+    "policy"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Opportunity & Engagement System",
+    "shortDescription": "Scan, select, verify, engage, commit, review, and adapt.",
+    "longDescription": "A private skill-only workflow system built on a nine-state opportunity lifecycle and shared evidence ledger. It routes cases across Strategic Opportunity, External Engagement, Evidence Verification, and Adaptive Commitment while preserving evidence versions, ownership boundaries, transition history, verification sidecars, control-loop discipline, and stop rules.",
+    "developerName": "Titanifan",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive"
+    ],
+    "defaultPrompt": [
+      "Use the Opportunity & Engagement System to identify the current state and decide what should happen next.",
+      "Re-screen or review this opportunity using the latest material evidence while preserving the prior decision record.",
+      "Verify the decision-critical claims before changing the opportunity decision."
+    ],
+    "brandColor": "#334155"
+  }
+}

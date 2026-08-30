@@ -1,0 +1,20 @@
+{
+  "name": "management-skills",
+  "interface": {
+    "displayName": "Management Skills"
+  },
+  "plugins": [
+    {
+      "name": "opportunity-engagement-system",
+      "source": {
+        "source": "local",
+        "path": "./plugins/opportunity-engagement-system"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

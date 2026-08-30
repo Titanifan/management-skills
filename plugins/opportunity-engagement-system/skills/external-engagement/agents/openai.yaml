@@ -1,0 +1,10 @@
+interface:
+  display_name: External Engagement
+  short_description: Form and convert durable external partnerships
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+  default_prompt: Use $external-engagement to determine whether this relationship
+    needs opportunity formation or partnership conversion, then design the next evidence-producing
+    move.
+policy:
+  allow_implicit_invocation: true
