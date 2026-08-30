@@ -1,0 +1,8 @@
+interface:
+  display_name: Adaptive Commitment
+  short_description: Turn an existing strategic judgement into bounded resource commitment,
+    execution, learning, and reallocation.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  allow_implicit_invocation: true

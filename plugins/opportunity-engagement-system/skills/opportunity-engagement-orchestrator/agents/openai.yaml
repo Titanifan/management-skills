@@ -1,0 +1,6 @@
+interface:
+  display_name: Opportunity & Engagement Orchestrator
+  short_description: Route opportunity cases through a nine-state lifecycle with verification and controlled handoffs.
+  default_prompt: Use $opportunity-engagement-orchestrator to identify the opportunity, evidence version, current state, governing uncertainty, minimum specialist capability, and next evidence-producing move while preserving the shared Opportunity Ledger.
+policy:
+  allow_implicit_invocation: true

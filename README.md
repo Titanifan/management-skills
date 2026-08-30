@@ -6,7 +6,33 @@ This repository translates management research, practitioner frameworks, and exp
 
 Source transparency matters more than citation volume. A scholarly construct, a cross-level translation, a practitioner thesis, and an author-designed score do not carry the same claim. See [GOVERNANCE.md](GOVERNANCE.md) for the closed provenance taxonomy and release rules.
 
-## The three decision problems
+## Current workspace plugin: Opportunity & Engagement System v1.1
+
+The recommended installation is the consolidated [Opportunity & Engagement System](plugins/opportunity-engagement-system/) plugin. It contains five coordinated Skills:
+
+- Opportunity & Engagement Orchestrator
+- Strategic Opportunity
+- External Engagement
+- Evidence Verification
+- Adaptive Commitment
+
+The plugin coordinates a nine-state lifecycle and preserves evidence versions, routing history, verification sidecars, commitment reviews, monitoring, and exit logic. The root-level `skills/` directories remain available as the legacy v0.2 standalone source, but they are not the recommended current installation.
+
+Release evidence: [v1.1 original 12-case routing regression report](evals/opportunity-engagement-v1.1-regression-report.md) — 12/12 passed, with no critical, major, or minor regression found in the deterministic routing simulation.
+
+### Import into a ChatGPT workspace
+
+Workspace admins can import this repository as a Git marketplace:
+
+1. Open **Admin → Plugins → Add → Import marketplace**.
+2. Use `https://github.com/Titanifan/management-skills` as **Source**.
+3. Leave **Path** blank.
+4. Use `main` as **Branch**, or leave Branch blank to follow the repository default.
+5. Import the marketplace, then set the plugin's installation policy for the intended roles.
+
+After future GitHub releases, use **Admin → Plugins → Marketplaces → Management Skills → Sync now** to request an immediate update.
+
+## Legacy standalone decision Skills
 
 | Skill | Primary question | Stops before |
 |---|---|---|
@@ -27,10 +53,24 @@ The boundaries are intentional. Strategic Opportunity decides whether an opportu
 ## Repository structure
 
 ```text
+.agents/
+  plugins/
+    marketplace.json
 GOVERNANCE.md
 VERSION
 evals/
   cases.md
+  opportunity-engagement-v1.1-regression-report.md
+plugins/
+  opportunity-engagement-system/
+    .codex-plugin/
+      plugin.json
+    skills/
+      opportunity-engagement-orchestrator/
+      strategic-opportunity/
+      external-engagement/
+      evidence-verification/
+      adaptive-commitment/
 skills/
   strategic-opportunity/
     SKILL.md
@@ -49,9 +89,9 @@ skills/
     references/
 ```
 
-Each directory is independently installable. Copy the desired directory into a compatible personal Skills location such as `~/.codex/skills/` or `~/.agents/skills/`.
+The consolidated plugin under `plugins/` is the canonical v1.1 release. Each root-level legacy Skill directory remains independently installable for rollback or historical comparison.
 
-GitHub is the canonical source. Edit and validate a repository checkout, then install a released version. Treat personal Skill directories as replaceable runtime copies rather than editing locations.
+GitHub is the canonical source. Edit and validate a repository checkout, then sync or install a released version. Treat personal Skill directories and plugin caches as replaceable runtime copies rather than editing locations.
 
 ## Provenance and evaluation
 

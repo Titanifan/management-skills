@@ -1,0 +1,304 @@
+[
+  {
+    "id": "wa-agency-funding-scan",
+    "prompt": "Scan current Western Australian government agencies and funding programmes relevant to my academic-practice arena, then tell me what deserves attention.",
+    "evidence": [
+      "No named opportunity has yet been selected.",
+      "Agency remits, programmes, contacts, and deadlines may change over time."
+    ],
+    "expected_state": "scan",
+    "expected_primary_skill": "agent-native",
+    "expected_mode": "scan",
+    "expected_next_state": "pre-screen",
+    "required_output_fields": [
+      "state",
+      "documented_evidence",
+      "bounded_candidate_list",
+      "next_evidence_action",
+      "stop_rule"
+    ],
+    "prohibited_behaviours": [
+      "create a Discovery Skill",
+      "deep-dive every candidate",
+      "run all three Skills"
+    ],
+    "boundary_case": false
+  },
+  {
+    "id": "digital-government-before-meeting",
+    "prompt": "I have a first substantive meeting with a Digital Government contact. We know the broad domain, but not the consequential decision problem. What should I do?",
+    "evidence": [
+      "A named contact and meeting exist.",
+      "No jointly recognised practice problem, owner, response variation, or data pathway is documented."
+    ],
+    "expected_state": "formation",
+    "expected_primary_skill": "external-engagement",
+    "expected_mode": "formation",
+    "required_output_fields": [
+      "state",
+      "evidence_gap",
+      "formation_objective",
+      "next_evidence_action",
+      "stop_rule"
+    ],
+    "prohibited_behaviours": [
+      "premature proposal",
+      "resource cap",
+      "claim partnership readiness"
+    ],
+    "boundary_case": false
+  },
+  {
+    "id": "digital-government-after-field-evidence",
+    "prompt": "Our Digital Government meeting revealed a consequential implementation decision, two different agency responses, a credible problem owner, and possible data access. Update the opportunity.",
+    "evidence": [
+      "New field evidence materially changes the initial opportunity hypothesis.",
+      "Strategic portfolio entry was previously provisional."
+    ],
+    "expected_state": "re-screen",
+    "expected_primary_skill": "strategic-opportunity",
+    "expected_mode": "re-screen",
+    "expected_next_state": "conversion",
+    "required_output_fields": [
+      "state",
+      "evidence_version",
+      "what_changed",
+      "updated_disposition",
+      "next_evidence_action",
+      "stop_rule"
+    ],
+    "prohibited_behaviours": [
+      "treat initial screen as final",
+      "skip strategic re-screen",
+      "run all three Skills"
+    ],
+    "boundary_case": false
+  },
+  {
+    "id": "amgc-gateway-no-defined-problem",
+    "prompt": "AMGC can introduce me to firms, but there is no defined firm-level problem or project yet. Should we convert this into a collaboration?",
+    "evidence": [
+      "AMGC offers gateway access and introductions.",
+      "No consequential firm problem, owner, sponsor, or evidence gap is yet established."
+    ],
+    "expected_state": "formation",
+    "expected_primary_skill": "external-engagement",
+    "expected_mode": "formation",
+    "required_output_fields": [
+      "state",
+      "candidate_problem_hypotheses",
+      "evidence_gap",
+      "next_evidence_action",
+      "stop_rule"
+    ],
+    "prohibited_behaviours": [
+      "mistake introductions for project readiness",
+      "pitch a predetermined project",
+      "assign resources"
+    ],
+    "boundary_case": false
+  },
+  {
+    "id": "grdc-formal-call-defined-problem",
+    "prompt": "GRDC has issued a formal call with a defined surface problem and deadline. Assess whether it is strategically worth pursuing and what should happen next.",
+    "evidence": [
+      "A formal call defines a surface problem and selection process.",
+      "The user's strategic role, data access, ownership, and partnership terms remain unresolved."
+    ],
+    "expected_state": "pre-screen",
+    "expected_primary_skill": "strategic-opportunity",
+    "expected_mode": "preliminary-screen",
+    "expected_next_state": "conversion",
+    "required_output_fields": [
+      "state",
+      "provisional_disposition",
+      "decisive_evidence_gap",
+      "recommended_next_state",
+      "stop_rule"
+    ],
+    "prohibited_behaviours": [
+      "force Formation from zero",
+      "commit resources before role qualification",
+      "assume a formal call is strategically attractive"
+    ],
+    "boundary_case": false
+  },
+  {
+    "id": "energy-policy-wa-consultation",
+    "prompt": "There is an Energy Policy WA consultation. Decide whether and how it belongs in my portfolio without overstating it as engaged scholarship.",
+    "evidence": [
+      "A public consultation can create policy influence and relationship learning.",
+      "No research access, reciprocal partnership, or durable project is yet evidenced."
+    ],
+    "expected_state": "pre-screen",
+    "expected_primary_skill": "strategic-opportunity",
+    "expected_mode": "preliminary-screen",
+    "expected_track": "policy-public-influence",
+    "required_output_fields": [
+      "state",
+      "portfolio_classification",
+      "research_access_test",
+      "bounded_next_action",
+      "stop_rule"
+    ],
+    "prohibited_behaviours": [
+      "call public engagement engaged scholarship without evidence",
+      "assume consultation implies partnership",
+      "unbounded submission effort"
+    ],
+    "boundary_case": false
+  },
+  {
+    "id": "positive-relationship-no-sponsor",
+    "prompt": "The relationship is warm and enthusiastic, but nobody owns the problem, no sponsor has committed resources, and access is informal. Should I invest more?",
+    "evidence": [
+      "Positive sentiment and repeated conversations are documented.",
+      "Sponsor, reciprocal resource, decision access, and formal role are absent."
+    ],
+    "expected_state": "formation",
+    "expected_primary_skill": "external-engagement",
+    "expected_mode": "formation",
+    "expected_next_state": "monitor",
+    "required_output_fields": [
+      "state",
+      "problem_owner_gap",
+      "bounded_formation_test",
+      "next_evidence_action",
+      "stop_rule"
+    ],
+    "prohibited_behaviours": [
+      "escalate because of enthusiasm",
+      "treat duration as reciprocity",
+      "assign a commitment architecture"
+    ],
+    "boundary_case": true
+  },
+  {
+    "id": "strong-opportunity-peripheral-role",
+    "prompt": "The opportunity itself looks strong, but my role would be peripheral and I would own neither the relationship, data, problem, nor outputs. Should I commit?",
+    "evidence": [
+      "The arena and external problem appear attractive.",
+      "The user's role and ownership position fail a strategic hard gate."
+    ],
+    "expected_state": "pre-screen",
+    "expected_primary_skill": "strategic-opportunity",
+    "expected_mode": "preliminary-screen",
+    "expected_outcome": "redesign-or-reject",
+    "required_output_fields": [
+      "state",
+      "hard_gate",
+      "provisional_disposition",
+      "redesign_condition",
+      "stop_rule"
+    ],
+    "prohibited_behaviours": [
+      "average away ownership hard gate",
+      "invoke Adaptive Commitment",
+      "equate opportunity quality with user fit"
+    ],
+    "boundary_case": true
+  },
+  {
+    "id": "partnership-ready-resources-undecided",
+    "prompt": "We have a shared problem, sponsor, role, access, reciprocity, ownership, attribution, and governance. I now need to decide how much time and budget to commit.",
+    "evidence": [
+      "Strategic portfolio entry has been justified.",
+      "Partnership Conversion evidence is sufficient.",
+      "A concrete resource decision remains."
+    ],
+    "expected_state": "commitment",
+    "expected_primary_skill": "adaptive-commitment",
+    "expected_mode": "commitment",
+    "expected_next_state": "review",
+    "required_output_fields": [
+      "state",
+      "resource_floor_and_cap",
+      "milestone",
+      "evidence_standard",
+      "review_trigger"
+    ],
+    "prohibited_behaviours": [
+      "re-run full portfolio selection",
+      "re-run Formation",
+      "commit without a cap"
+    ],
+    "boundary_case": true
+  },
+  {
+    "id": "milestone-failure-different-problem",
+    "prompt": "The pilot missed its milestone, but implementation evidence revealed that the real problem is different from the one we selected. Review and route it.",
+    "evidence": [
+      "The agreed milestone was missed.",
+      "New implementation evidence challenges the problem definition rather than only execution quality."
+    ],
+    "expected_state": "review",
+    "expected_primary_skill": "adaptive-commitment",
+    "expected_mode": "review",
+    "expected_transition_options": [
+      "formation",
+      "re-screen"
+    ],
+    "required_output_fields": [
+      "state",
+      "execution_fidelity",
+      "belief_change",
+      "transition_evidence",
+      "recommended_state"
+    ],
+    "prohibited_behaviours": [
+      "allow only scale park or kill",
+      "treat milestone failure as automatic exit",
+      "ignore new problem evidence"
+    ],
+    "boundary_case": true
+  },
+  {
+    "id": "one-meeting-formation-to-conversion",
+    "prompt": "In one meeting we identified a consequential problem and owner, then the counterpart offered data access and a reciprocal role. Handle the meeting without forcing an artificial linear sequence.",
+    "evidence": [
+      "The meeting began without a formed opportunity.",
+      "Problem evidence emerged before access and reciprocal commitment evidence."
+    ],
+    "expected_state": "formation",
+    "expected_primary_skill": "external-engagement",
+    "expected_mode": "formation",
+    "expected_next_state": "conversion",
+    "required_output_fields": [
+      "initial_state",
+      "transition_evidence",
+      "new_state",
+      "evidence_version",
+      "next_evidence_action"
+    ],
+    "prohibited_behaviours": [
+      "artificially split interaction into unrelated workflows",
+      "claim Conversion from the meeting outset",
+      "omit transition evidence"
+    ],
+    "boundary_case": true
+  },
+  {
+    "id": "stale-role-programme-deadline",
+    "prompt": "Route this opportunity using a contact role, programme status, and deadline I recorded last year.",
+    "evidence": [
+      "The supplied public facts are time-sensitive and more than a year old.",
+      "No current authoritative verification has been supplied."
+    ],
+    "expected_state": "scan",
+    "expected_primary_skill": "agent-native",
+    "expected_mode": "evidence-verification",
+    "required_output_fields": [
+      "provisional_state",
+      "facts_to_verify",
+      "authoritative_sources",
+      "verification_date",
+      "stop_rule"
+    ],
+    "prohibited_behaviours": [
+      "act on stale public facts",
+      "infer current role from old title",
+      "route to commitment before verification"
+    ],
+    "boundary_case": true
+  }
+]

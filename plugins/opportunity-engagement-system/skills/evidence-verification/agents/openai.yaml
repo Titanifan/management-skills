@@ -1,0 +1,6 @@
+interface:
+  display_name: Evidence Verification
+  short_description: Verify decision-critical claims before they drive decisions.
+  default_prompt: Use $evidence-verification to identify the decision-critical claims, verify them against the strongest current evidence, search for contradictions, and report what the evidence actually supports.
+policy:
+  allow_implicit_invocation: true
